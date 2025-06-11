@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: will  be updated
-- Live Site URL: will be updated
+- Solution URL: will be updated
+- Live Site URL: https://dark1010101010.github.io/Bento-grid/
 
 ## My process
 
